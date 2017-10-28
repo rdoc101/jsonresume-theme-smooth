@@ -1,11 +1,11 @@
 {
-  "name": "jsonresume-theme-boilerplate",
-  "version": "0.1.2",
-  "description": "Boilerplate theme for JSON Resume",
-  "author": "Mattias Erming",
+  "name": "jsonresume-theme-smooth",
+  "version": "0.0.1",
+  "description": "Smooth theme for JSON Resume",
+  "author": "Richard Flett",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erming/jsonresume-theme-boilerplate"
+    "url": "https://github.com/rdoc101/jsonresume-theme-smooth"
   },
   "license": "MIT",
   "dependencies": {
